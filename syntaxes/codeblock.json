@@ -8,8 +8,8 @@
 	],
 	"repository": {
 		"kotlin-code-block": {
-          	"begin": "(^|\\G)(\\s*)(.*)",
-          	"while": "(^|\\G)(?!\\s*([`~]{3,})\\s*$)",
+			"begin": "(^|\\G)(\\s*)(.*)",
+			"while": "(^|\\G)(?!\\s*([`~]{3,})\\s*$)",
 			"contentName": "meta.embedded.block.kotlin",
 			"patterns": [
 				{
